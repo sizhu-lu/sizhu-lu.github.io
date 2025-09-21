@@ -1,0 +1,26 @@
+# jemdoc: menu{MENU}{talks.html}
+= Presentations
+
+- Estimating within-cluster and between-cluster spillover effects in randomized saturation designs\n
+-- Invited talk at the Emory Causal Network Analysis Workshop, 08/2025
+
+- Design-based causal inference in bipartite experiments\n
+-- Poster at 2025 Berkeley Statistics Annual Research Symposium, 09/2025
+-- Poster at Experimental Designs in the Era of Artificial Intelligence Workshop, 03/2025
+-- Poster at 2024 Stanford Berkeley Joint Colloquium, 10/2024
+
+- Estimating treatment effects with competing intercurrent events in randomized controlled trials\n
+-- Talk at 2024 JSM Topic-Contributed Paper Session, 08/2024
+-- Talk at Eli Lilly and Company (G4S Seminar), 05/2024
+-- Talk at 2024 Berkeley Statistics Annual Research Symposium, 04/2024
+
+- Principal stratification with continuous post-treatment variables
+-- Talk at School of Management and Economics, CUHK, 05/2024
+-- Poster at 2024 American Causal Inference Conference, 05/2024
+-- Poster at Winter Workshop: Causal inference and its applications, University of Florida, 01/2024
+-- Poster at 2023 CLIMB retreat, UC Berkeley, 11/2023
+
+- Flexible sensitivity analysis for causal inference in observational studies subject to unmeasured confounding\n
+-- Talk at 2024 INFORMS, Invited paper session, 10/2024
+-- Poster at 2024 PolMeth, 07/2024
+-- Talk at Center for Statistical Science, Tsinghua University, 06/2023

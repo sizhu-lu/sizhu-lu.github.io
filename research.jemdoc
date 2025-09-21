@@ -1,0 +1,30 @@
+# jemdoc: menu{MENU}{research.html}
+= Research
+
+== Research Interest
+
+My research centers on causal inference and its intersection with semiparametric statistics and clinical trials. A unifying theme of my work is the development of methods to identify and efficiently estimate causal effects in complex, real-world settings. I focus on three main directions: 
+- causal inference under interference, including bipartite and network experiments; 
+- semiparametric efficiency theory for challenging causal parameters, such as principal stratification with continuous post-treatment variables and two-phase designs for local average treatment effects; 
+- methodological innovations for clinical trials, addressing issues like competing intercurrent events in randomized controlled trials and information borrowing from nonconcurrent control groups in platform trials. 
+
+Beyond these areas, I also study longitudinal causal inference, machine learning methods for treatment effect heterogeneity, and flexible approaches to sensitivity analysis. Through these projects, my goal is to advance both statistical theory and practice by developing tools that are rigorous, efficient, and widely applicable across the social sciences, public health, and business.
+
+
+== Publications/Manuscripts
+(\* for co-first author)
+
+- [https://arxiv.org/abs/2501.09844 Design-based causal inference in bipartite experiments]\n
+*Sizhu Lu\**, Lei Shi\*, Yue Fang, Wenxin Zhang, and Peng Ding, 2025+. /submitted/ 
+
+- [https://arxiv.org/abs/2503.03049 Estimating treatment effects with competing intercurrent events in randomized controlled trials]\n
+*Sizhu Lu*, Yanyao Yi, Yongming Qu, Karen Liu, Ting Ye, and Peng Ding, 2025+. /Major revision at Journal of the American Statistical Association/
+
+- [https://arxiv.org/abs/2309.12425 Principal stratification with continuous post-treatment variables: nonparametric identification and semiparametric estimation]\n
+*Sizhu Lu*, Zhichao Jiang, and Peng Ding, 2025. /Journal of the Royal Statistical Society Series B: Statistical Methodology/, in press
+
+- [https://arxiv.org/abs/2305.17643 Flexible sensitivity analysis for causal inference in observational studies subject to unmeasured confounding]\n
+*Sizhu Lu* and Peng Ding, 2023+. /submitted/
+
+- [documents/sbr_comment.pdf The roles of estimands and assumptions in causal inference: Comment on ``Chasing shadows: how implausible assumptions skew our understanding of causal estimands'']\n
+*Sizhu Lu* and Peng Ding, 2025. /Statistics in Biopharmaceutical Research/, in press
