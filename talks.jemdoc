@@ -1,6 +1,9 @@
 # jemdoc: menu{MENU}{talks.html}
 = Presentations
 
+- The roles of estimands and assumptions in causal inference
+-- Talk at the ASA Biopharmaceutical Webinar, 11/2025
+
 - Estimating within-cluster and between-cluster spillover effects in randomized saturation designs\n
 -- Talk at the Emory Causal Network Analysis Workshop, 08/2025
 
