@@ -26,6 +26,9 @@ Beyond these areas, I also study longitudinal causal inference, machine learning
 - [https://arxiv.org/abs/2305.17643 Flexible sensitivity analysis for causal inference in observational studies subject to unmeasured confounding]\n
 *Sizhu Lu* and Peng Ding, 2023+. /submitted/. [documents/sensitivity_analysis_slide.pdf slides]
 
+- [documents/randomized_saturation_design.pdf Estimating within-cluster and between-cluster spillover effects in randomized saturation designs]\n
+*Sizhu Lu\**, Lei Shi\*, and Peng Ding, 2025+. /submitted/.
+
 - [https://www.tandfonline.com/doi/full/10.1080/19466315.2025.2505495 The roles of estimands and assumptions in causal inference: Comment on ``Chasing shadows: how implausible assumptions skew our understanding of causal estimands'']\n
 Peng Ding and *Sizhu Lu*, 2025. /Statistics in Biopharmaceutical Research/ 17:4, 532-535. [documents/discussion_SBR_slide.pdf slides]
 
