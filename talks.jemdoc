@@ -1,32 +1,33 @@
 # jemdoc: menu{MENU}{talks.html}
 = Presentations
 
-- The roles of estimands and assumptions in causal inference
--- Talk at the ASA Biopharmaceutical Webinar, 11/2025
+== Talks
+- 2026 INFORMS, Invited Paper Session, 11/2026
+- 2026 Joint Statistical Meetings, Contributed Paper Session, 08/2026
+- 2026 Applied Statistics Symposium, ICSA, 06/2026
+- SILVER Lab, Department of Epidemiology and Public Health, University of Maryland School of Medicine, 06/2026
+- Department of Information, Risk, and Operations Management, McCombs School of Business, University of Texas at Austin, 02/2026
+- Department of Statistics and Data Science, The Wharton School, University of Pennsylvania, 02/2026
+- Department of Statistics \& Data Science, Carnegie Mellon University, 02/2026
+- Econometrics and Statistics Colloquium, Booth School of Business, University of Chicago, 01/2026
+- ASA Biopharmaceutical Section Webinar, 11/2025
+- Online Causal Inference Seminar, 09/2025
+- Emory Causal Network Analysis Workshop, 08/2025
+- 2024 INFORMS, Invited Paper Session, 10/2024
+- 2024 Joint Statistical Meetings, Topic-Contributed Paper Session, 08/2024
+- School of Management and Economics, The Chinese University of Hong Kong, Shenzhen, 05/2024
+- Eli Lilly and Company, G4S Seminar, 05/2024
+- 2024 Berkeley Statistics Annual Research Symposium, 04/2024
+- Center for Statistical Science, Tsinghua University, 06/2023
 
-- Estimating within-cluster and between-cluster spillover effects in randomized saturation designs\n
--- Talk at the Emory Causal Network Analysis Workshop, 08/2025
+== Posters
+- 2026 American Causal Inference Conference, 05/2026
+- 2025 CLIMB Retreat, UC Berkeley, 11/2025
+- 2025 Berkeley Statistics Annual Research Symposium, 09/2025
+- Experimental Designs in the Era of Artificial Intelligence Workshop, 03/2025
+- 2024 Stanford-Berkeley Joint Colloquium, 10/2024
+- 2024 PolMeth, 07/2024
+- 2024 American Causal Inference Conference, 05/2024
+- Winter Workshop: Causal Inference and Its Applications, University of Florida, 01/2024
+- 2023 CLIMB Retreat, UC Berkeley, 11/2023
 
-- Design-based causal inference in bipartite experiments\n
--- Poster at 2025 CLIMB Retreat, UC Berkeley, 11/2025
--- Poster at 2025 Berkeley Statistics Annual Research Symposium, 09/2025
--- Poster at Experimental Designs in the Era of Artificial Intelligence Workshop, 03/2025
--- Poster at 2024 Stanford Berkeley Joint Colloquium, 10/2024
-
-- Estimating treatment effects with competing intercurrent events in randomized controlled trials\n
--- Talk at 2026 ISCA Applied Statistics Symposium, Invited Session, 06/2026
--- Talk at Online Causal Inference Seminar, 09/2025
--- Talk at 2024 JSM Topic-Contributed Paper Session, 08/2024
--- Talk at Eli Lilly and Company (G4S Seminar), 05/2024
--- Talk at 2024 Berkeley Statistics Annual Research Symposium, 04/2024
-
-- Principal stratification with continuous post-treatment variables
--- Talk at School of Management and Economics, CUHK, 05/2024
--- Poster at 2024 American Causal Inference Conference, 05/2024
--- Poster at Winter Workshop: Causal Inference and Its Applications, University of Florida, 01/2024
--- Poster at 2023 CLIMB Retreat, UC Berkeley, 11/2023
-
-- Flexible sensitivity analysis for causal inference in observational studies subject to unmeasured confounding\n
--- Talk at 2024 INFORMS, Invited Paper Session, 10/2024
--- Poster at 2024 PolMeth, 07/2024
--- Talk at Center for Statistical Science, Tsinghua University, 06/2023
